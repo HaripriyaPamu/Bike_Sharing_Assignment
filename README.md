@@ -40,12 +40,12 @@ The equation of the best fit line is given by:
 cnt = 1.04 * year + 0.47 * temp + 0.28 * September + 0.28 * Saturday + 0.25 * workingday + 0.24 * Winter -0.29 * July -0.35 * Misty & Cloudy -0.5 * Spring -1.35 * Light Snow & Rain -0.51
 
 Based on the equation, the significant Variables for Predicting Bike Demand are:
-Workingday: Positive impact on demand.
-Temperature: Positive impact on demand.
-Year: Positive impact on demand.
-Seasons: Winter has high demand whereas Spring has low demand.
-Months: September show significant demand and July show negative demand.
-Weather Situation: Bad and moderate weather conditions affect demand.
+* Workingday: Positive impact on demand.
+* Temperature: Positive impact on demand.
+* Year: Positive impact on demand.
+* Seasons: Winter has high demand whereas Spring has low demand.
+* Months: September show significant demand and July show negative demand.
+* Weather Situation: Bad and moderate weather conditions affect demand.
 
 ## Acknowledgements
 This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by Shivam Garg
