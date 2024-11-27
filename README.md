@@ -3,10 +3,10 @@ This assignment is a programming assignment wherein you have to build a multiple
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
-* Business Objective
-* Technologies Used
-* Recommendations
-* Acknowledgements
+* [Business Objective](#business-objective)
+* [Technologies Used](#technologies-used)
+* [Recommendations](#recommendations)
+* [Acknowledgements](#acknowledgements)
 
 ## Problem Statement
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
