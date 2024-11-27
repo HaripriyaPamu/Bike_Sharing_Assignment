@@ -5,7 +5,6 @@ This assignment is a programming assignment wherein you have to build a multiple
 * Problem Statement
 * Business Objective
 * Technologies Used
-* Conclusions
 * Recommendations
 * Acknowledgements
 
@@ -52,7 +51,7 @@ Weather Situation: Bad and moderate weather conditions affect demand.
 This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by Shivam Garg
 UpGrad tutorials on Linear Regression on the learning platform
 
-# Contributors:
+## Contributors:
 Haripriya_Pamu
 
 
