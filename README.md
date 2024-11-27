@@ -52,7 +52,7 @@ This project was inspired by live session of upGrad on Industry Relevance of Lin
 UpGrad tutorials on Linear Regression on the learning platform
 
 ## Contributors:
-Haripriya_Pamu
+[Haripriya_Pamu](https://github.com/HaripriyaPamu)
 
 
 
