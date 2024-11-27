@@ -1,8 +1,9 @@
 # Bike_Sharing_Assignment
 This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same.
 
-# Table of Contents
-* Problem Statement and Business Objective
+## Table of Contents
+* Problem Statement
+* Business Objective
 * Technologies Used
 * Conclusions
 * Recommendations
@@ -33,6 +34,26 @@ You are required to model the demand for shared bikes with the available indepen
 * Seaborn - version 0.12.2
 * Statsmodels - version 0.14.0
 * Scikit-Learn - version 1.3.0
+
+## Recommendations:
+
+The equation of the best fit line is given by:
+cnt = 1.04 * year + 0.47 * temp + 0.28 * September + 0.28 * Saturday + 0.25 * workingday + 0.24 * Winter -0.29 * July -0.35 * Misty & Cloudy -0.5 * Spring -1.35 * Light Snow & Rain -0.51
+
+Based on the equation, the significant Variables for Predicting Bike Demand are:
+Workingday: Positive impact on demand.
+Temperature: Positive impact on demand.
+Year: Positive impact on demand.
+Seasons: Winter has high demand whereas Spring has low demand.
+Months: September show significant demand and July show negative demand.
+Weather Situation: Bad and moderate weather conditions affect demand.
+
+## Acknowledgements
+This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by Shivam Garg
+UpGrad tutorials on Linear Regression on the learning platform
+
+# Contributors:
+Haripriya_Pamu
 
 
 
